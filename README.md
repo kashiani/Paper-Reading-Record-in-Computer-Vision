@@ -5,14 +5,14 @@
 - [Knowledge Distillation](#Knowledge-Distillation)
 - [Domain Adaptation](#Domain-Adaptation)
 - [Semi-Supervised Learning](#Semi-Supervised-Learning)
-- [Corruption Robustness](#Corruption-Robustness)
-- [Adversarial Robustness](#Adversarial-Robustness)
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Object Detection](#Object-Detection)
 - [Visual Object Tracking](#Visual-Object-Tracking)
 - [Data Augmentation](#Data-Augmentation)
 - [Image-to-Image Translation](#Image-to-Image-Translation)
 - [Multi-Domain Learning](#Multi-Domain-Learning)
+- [Corruption Robustness](#Corruption-Robustness)
+- [Adversarial Robustness](#Adversarial-Robustness)
 - [Precious Papers](#Precious-Papers)
  
 
@@ -75,25 +75,6 @@
 
 - [ ] Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics (CVPR 2018) [[Paper]](https://arxiv.org/abs/1705.07115)[[Code]](https://feedforward.github.io/blog/multi-task-learning-using-uncertainty) 
 
-## Corruption Robustness
-- [ ]  ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness (ICLR 2019) [[Paper]](https://arxiv.org/abs/1811.12231)[[Code]](https://github.com/rgeirhos/texture-vs-shape) :star::star::star::star:
-
-- [ ]   Benchmarking Neural Network Robustness to Common Corruptions and Perturbations (ICLR 2019) [[Paper]](https://arxiv.org/abs/1907.07484)[[Code]](https://github.com/hendrycks/robustness) :star::star::star::star:
-
- - [ ]    Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming (NeurIPS 2019) [[Paper]](https://arxiv.org/abs/1903.12261)[[Code]](https://github.com/bethgelab/robust-detection-benchmark) :star::star::star::star:
- 
-
-## Adversarial Robustness
-
-- [ ]  Adversarial Examples in Modern Machine Learning: A Review (ArXiv 2019) [[Paper]](https://arxiv.org/pdf/1911.05268.pdf)[Code]:star::star::star::star:
- 
-- [ ]  Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2007.00753)[Code]:star::star::star::star:
-
-- [ ] Defending against adversarial examples using defense kernel network (BMVC 2019) [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0675-paper.pdf)[Code]
-
-- [ ] Towards Evaluating the Robustness of Neural Networks (ArXiv  2017) [[Paper]](https://arxiv.org/abs/1608.04644)[Code]
-
-- [ ]  A simple way to make neural networks robust against diverse image corruptions (EECV 2020) [[Paper]](https://arxiv.org/abs/2001.06057)[Code]:star::star:
  
 ## Semantic Segmentation
 
@@ -147,6 +128,26 @@
 - [ ] Self-Supervised Representation Learning From Multi-Domain Data (ArXiv 2020) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Feng_Self-Supervised_Representation_Learning_From_Multi-Domain_Data_ICCV_2019_paper.pdf)[Code]
 
 - [ ] Efficient parametrization of multi-domain deep neural networks (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1803.10082)[Code]
+
+## Corruption Robustness
+- [ ]  ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness (ICLR 2019) [[Paper]](https://arxiv.org/abs/1811.12231)[[Code]](https://github.com/rgeirhos/texture-vs-shape) :star::star::star::star:
+
+- [ ]   Benchmarking Neural Network Robustness to Common Corruptions and Perturbations (ICLR 2019) [[Paper]](https://arxiv.org/abs/1907.07484)[[Code]](https://github.com/hendrycks/robustness) :star::star::star::star:
+
+ - [ ]    Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming (NeurIPS 2019) [[Paper]](https://arxiv.org/abs/1903.12261)[[Code]](https://github.com/bethgelab/robust-detection-benchmark) :star::star::star::star:
+ 
+
+## Adversarial Robustness
+
+- [ ]  Adversarial Examples in Modern Machine Learning: A Review (ArXiv 2019) [[Paper]](https://arxiv.org/pdf/1911.05268.pdf)[Code]:star::star::star::star:
+ 
+- [ ]  Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2007.00753)[Code]:star::star::star::star:
+
+- [ ] Defending against adversarial examples using defense kernel network (BMVC 2019) [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0675-paper.pdf)[Code]
+
+- [ ] Towards Evaluating the Robustness of Neural Networks (ArXiv  2017) [[Paper]](https://arxiv.org/abs/1608.04644)[Code]
+
+- [ ]  A simple way to make neural networks robust against diverse image corruptions (EECV 2020) [[Paper]](https://arxiv.org/abs/2001.06057)[Code]:star::star:
 
 ## Precious Papers
 - [ ]  Shortcut Learning in Deep Neural Networks (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/2004.07780)[[Code]](https://github.com/rgeirhos/shortcut-perspective) :star::star::star::star::star:
