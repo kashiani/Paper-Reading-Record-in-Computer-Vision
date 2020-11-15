@@ -18,7 +18,7 @@
 
 ## Knowledge Distillation 
 
- [x]   Knowledge Distillation and Student-Teacher   Learning for Visual Intelligence: A Review and  New Outlooks
+- [x]   Knowledge Distillation and Student-Teacher   Learning for Visual Intelligence: A Review and  New Outlooks
  (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.05937)[Code] :star::star::star::star::star:
 
  >-   <font size="2">Knowledge distillation (KD) has been proposed to transfer information learned from one model to another</font>  
