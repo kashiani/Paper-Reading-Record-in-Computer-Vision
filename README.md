@@ -41,7 +41,7 @@
 
 - [ ] A Review of Single-Source Deep Unsupervised Visual Domain Adaptation (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2009.00155)[Code] :star::star::star::star:
 
-- [ ] A Comprehensive Survey on Transfer Learning (ArXiv 2020)[[Paper]](https://arxiv.org/abs/1911.02685)[Code] :star::star::star::star:
+- [ ] A Comprehensive Survey on Transfer Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1911.02685)[Code] :star::star::star::star:
 
 - [ ]  Transfer Adaptation Learning: A Decade Survey (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1903.04687)[Code] :star::star::star::star:
 
@@ -51,7 +51,7 @@
 
 - [ ] DADA: Depth-Aware Domain Adaptation in Semantic Segmentation (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1904.01886) [[Code]](https://github.com/valeoai/DADA)
 
-- [ ] Multi-source Domain Adaptation for Semantic Segmentation  (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1910.12181) [[Code]](https://github.com/Luodian/MADAN):star:
+- [ ] Multi-source Domain Adaptation for Semantic Segmentation (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1910.12181) [[Code]](https://github.com/Luodian/MADAN):star:
 
 - [ ] A Robust Learning Approach to Domain Adaptive Object Detection (ICCV 2019) [[Paper]](https://arxiv.org/pdf/1904.02361)[Code] 
 
@@ -59,11 +59,11 @@
 ## Semi-Supervised Learning
 - [ ] Semi-Supervised Semantic Segmentation with Cross-Consistency Training (CVPR 2020) [[Paper]](https://arxiv.org/abs/2003.09005)[[Code]](https://github.com/yassouali/CCT) :star:
 
-- [ ]  Semi-Supervised Semantic Segmentation via Dynamic Self-Training and Class-Balanced Curriculum  (ECCV 2020)[[Paper]](https://arxiv.org/abs/2004.08514)[[Code]](https://github.com/voldemortX/DST-CBC) :star:
+- [ ]  Semi-Supervised Semantic Segmentation via Dynamic Self-Training and Class-Balanced Curriculum  (ECCV 2020) [[Paper]](https://arxiv.org/abs/2004.08514)[[Code]](https://github.com/voldemortX/DST-CBC) :star:
 
-- [ ]  Guided Collaborative Training for Pixel-wise Semi-Supervised Learning (ECCV 2020)[[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580426.pdf)[[Code]](https://github.com/ZHKKKe/PixelSSL) :star:
+- [ ]  Guided Collaborative Training for Pixel-wise Semi-Supervised Learning (ECCV 2020) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580426.pdf)[[Code]](https://github.com/ZHKKKe/PixelSSL) :star:
 
-- [ ]  FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning (ECCV 2020)[[Paper]](https://arxiv.org/abs/2007.08505)[[Code]](https://sites.google.com/view/chiawen-kuo/home/featmatch) :star::star:
+- [ ]  FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning (ECCV 2020) [[Paper]](https://arxiv.org/abs/2007.08505)[[Code]](https://sites.google.com/view/chiawen-kuo/home/featmatch) :star::star:
 
 
 
@@ -81,7 +81,9 @@
 - [x] Benchmarking the Robustness of Semantic Segmentation Models (CVPR 2020) [[Paper]](https://arxiv.org/pdf/1908.05005.pdf) [Code]:star::star::star:
 
 ## Object Detection
-- [ ] ImageNet classification with deep convolutional neural networks (2012 *NeurIPS  2012*) [[Paper]](https://arxiv.org/abs/1406.2661)[[Code]](https://github.com/goodfeli/adversarial) :star::star::star:
+- [ ] Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer (ECCV 2020) [[Paper]](https://arxiv.org/abs/2007.07986)[[Code]](https://github.com/mikuhatsune/wsod_transfer) 
+
+- [ ] HoughNet: Integrating near and long-range evidence for bottom-up object detection (ECCV 2020) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700409.pdf)[[Code]]
 
 
 ## Visual Object Tracking
@@ -109,7 +111,7 @@
 
 - [ ]  Geometry-Consistent Generative Adversarial Networks for One-Sided Unsupervised Domain Mapping (ArXiv 2020) [[Paper]]()[Code]:star:
 
-- [ ] Domain Bridge for Unpaired Image-to-Image Translation   and Unsupervised Domain Adaptation (ArXiv 2020) [[Paper]]()[Code]:star:
+- [ ] Domain Bridge for Unpaired Image-to-Image Translation and Unsupervised Domain Adaptation (ArXiv 2020) [[Paper]]()[Code]:star:
 
 - [ ]  On the Role of Receptive Field in Unsupervised Sim-to-Real Image Translation (ArXiv 2020) [[Paper]]()[Code]:star:
 
@@ -145,7 +147,7 @@
 
 - [ ] Defending against adversarial examples using defense kernel network (BMVC 2019) [[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0675-paper.pdf)[Code]
 
-- [ ] Towards Evaluating the Robustness of Neural Networks (ArXiv  2017) [[Paper]](https://arxiv.org/abs/1608.04644)[Code]
+- [ ] Towards Evaluating the Robustness of Neural Networks (ArXiv 2017) [[Paper]](https://arxiv.org/abs/1608.04644)[Code]
 
 - [ ]  A simple way to make neural networks robust against diverse image corruptions (EECV 2020) [[Paper]](https://arxiv.org/abs/2001.06057)[Code]:star::star:
 
