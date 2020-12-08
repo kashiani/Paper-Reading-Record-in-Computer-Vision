@@ -89,6 +89,7 @@
 ## Visual Object Tracking
 
 - [ ] CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers (ECCV 2020) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650375.pdf)[[Code]](https://github.com/xingpingdong/CLNet-tracking) :star::heavy_check_mark: 
+- [ ] Scale Equivariance Improves Siamese Tracking (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.09115)[[Code]]
 
 ## Data Augmentation
 
@@ -153,7 +154,7 @@
 
 ## Precious Papers
 - [ ]  Shortcut Learning in Deep Neural Networks (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/2004.07780)[[Code]](https://github.com/rgeirhos/shortcut-perspective) :star::star::star::star::star:
-
+- [ ]  Scale-Equivariant Steerable Networks (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1910.11093)[[Code]](https://github.com/isosnovik/sesn) 
 ## Contact & Feedback
 
 Feel free to contact me or pull request. 
