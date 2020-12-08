@@ -138,7 +138,7 @@
 - [ ]   Benchmarking Neural Network Robustness to Common Corruptions and Perturbations (ICLR 2019) [[Paper]](https://arxiv.org/abs/1907.07484)[[Code]](https://github.com/hendrycks/robustness) :star::star::star::star:
 
  - [ ]    Benchmarking Robustness in Object Detection: Autonomous Driving when Winter is Coming (NeurIPS 2019) [[Paper]](https://arxiv.org/abs/1903.12261)[[Code]](https://github.com/bethgelab/robust-detection-benchmark) :star::star::star::star:
- 
+  - [ ]    ADVERSARIAL AND NATURAL PERTURBATIONS FOR GENERAL ROBUSTNESS (ArXiv 2020, Rejected in ICLR 2021) [[Paper]](https://arxiv.org/pdf/2010.01401.pdf)[Code]
 
 ## Adversarial Robustness
 
