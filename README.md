@@ -89,7 +89,7 @@
 ## Visual Object Tracking
 
 - [ ] CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers (ECCV 2020) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650375.pdf)[[Code]](https://github.com/xingpingdong/CLNet-tracking) :star::heavy_check_mark: 
-- [ ] Scale Equivariance Improves Siamese Tracking (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.09115)[[Code]]
+- [ ] Scale Equivariance Improves Siamese Tracking (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.09115)[Code]
 
 ## Data Augmentation
 
