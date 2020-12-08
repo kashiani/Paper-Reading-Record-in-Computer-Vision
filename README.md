@@ -83,7 +83,7 @@
 ## Object Detection
 - [ ] Boosting Weakly Supervised Object Detection with Progressive Knowledge Transfer (ECCV 2020) [[Paper]](https://arxiv.org/abs/2007.07986)[[Code]](https://github.com/mikuhatsune/wsod_transfer) 
 
-- [ ] HoughNet: Integrating near and long-range evidence for bottom-up object detection (ECCV 2020) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700409.pdf)[[Code]]
+- [ ] HoughNet: Integrating near and long-range evidence for bottom-up object detection (ECCV 2020) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700409.pdf)[Code]
 
 
 ## Visual Object Tracking
