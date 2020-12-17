@@ -91,7 +91,7 @@
 - [ ] CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers (ECCV 2020) [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650375.pdf)[[Code]](https://github.com/xingpingdong/CLNet-tracking) :star::heavy_check_mark: 
 - [ ] Scale Equivariance Improves Siamese Tracking (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.09115)[Code]
 
-- [ ] Fully Convolutional Online Tracking (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.07109)(https://github.com/MCG-NJU/FCOT)[[Code]]
+- [ ] Fully Convolutional Online Tracking (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.07109)[[Code]](https://github.com/MCG-NJU/FCOT)
 
 ## Data Augmentation
 
