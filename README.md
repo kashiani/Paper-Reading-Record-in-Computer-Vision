@@ -156,7 +156,8 @@
 
 
 ## Contrastive Learning
-- [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[[Code]],(https://github.com/HobbitLong/SupContrast)[[Code]](https://github.com/google-research/google-research/tree/master/supcon):star::star::star:
+- [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[[Code]](https://github.com/HobbitLong/SupContrast)[[Code]](https://github.com/google-research/google-research/tree/master/supcon):star::star::star:
+
 
 
 ## Precious Papers
