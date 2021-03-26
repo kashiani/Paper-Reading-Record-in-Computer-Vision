@@ -13,7 +13,7 @@
 - [Multi-Domain Learning](#Multi-Domain-Learning)
 - [Corruption Robustness](#Corruption-Robustness)
 - [Adversarial Robustness](#Adversarial-Robustness)
-- [Contrastive Learning](#Contrastive Learning)
+- [Contrastive Learning](#Contrastive-Learning)
 - [Precious Papers](#Precious-Papers)
  
 ## Knowledge Distillation 
@@ -156,7 +156,7 @@
 
 
 ## Contrastive Learning
-- [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[Code](https://github.com/HobbitLong/SupContrast)[Code](https://github.com/google-research/google-research/tree/master/supcon)
+- [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[[Code]],(https://github.com/HobbitLong/SupContrast)[[Code]](https://github.com/google-research/google-research/tree/master/supcon):star::star::star:
 
 
 ## Precious Papers
