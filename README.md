@@ -13,9 +13,9 @@
 - [Multi-Domain Learning](#Multi-Domain-Learning)
 - [Corruption Robustness](#Corruption-Robustness)
 - [Adversarial Robustness](#Adversarial-Robustness)
+- [Contrastive Learning](#Contrastive Learning)
 - [Precious Papers](#Precious-Papers)
  
-
 ## Knowledge Distillation 
 
 - [x]   Knowledge Distillation and Student-Teacher   Learning for Visual Intelligence: A Review and  New Outlooks
@@ -153,6 +153,11 @@
 - [ ] Towards Evaluating the Robustness of Neural Networks (ArXiv 2017) [[Paper]](https://arxiv.org/abs/1608.04644)[Code]
 
 - [ ]  A simple way to make neural networks robust against diverse image corruptions (EECV 2020) [[Paper]](https://arxiv.org/abs/2001.06057)[Code]:star::star:
+
+
+## Contrastive Learning
+- [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[Code](https://github.com/HobbitLong/SupContrast)[Code](https://github.com/google-research/google-research/tree/master/supcon)
+
 
 ## Precious Papers
 - [ ]  Shortcut Learning in Deep Neural Networks (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/2004.07780)[[Code]](https://github.com/rgeirhos/shortcut-perspective) :star::star::star::star::star:
