@@ -163,7 +163,7 @@
 ## Self-Supervised Learning
 - [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[[Code]](https://github.com/HobbitLong/SupContrast) ⭐⭐⭐
 
-- [ ] Contrastive Representation Learning: A Framework and Review (IEEE ACESS 2020) [[Paper]](https://arxiv.org/abs/2010.05113)[Code] ⭐⭐
+- [ ] Contrastive Representation Learning: A Framework and Review (IEEE ACCESS 2020) [[Paper]](https://arxiv.org/abs/2010.05113)[Code] ⭐⭐
 
 ## Attention
 - [ ] AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [[Paper]](https://arxiv.org/pdf/2010.11929)[[Code]](https://github.com/google-research/vision_transformer) ⭐⭐⭐⭐
