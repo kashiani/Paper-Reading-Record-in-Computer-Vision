@@ -14,6 +14,7 @@
 - [Corruption Robustness](#Corruption-Robustness)
 - [Adversarial Robustness](#Adversarial-Robustness)
 - [Contrastive Learning](#Contrastive-Learning)
+- [Attention](#Attention)
 - [Precious Papers](#Precious-Papers)
  
 ## Knowledge Distillation 
@@ -161,6 +162,13 @@
 
 ## Contrastive Learning
 - [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[[Code]](https://github.com/HobbitLong/SupContrast)[[Code]](https://github.com/google-research/google-research/tree/master/supcon):star::star::star:
+
+## Attention
+- [ ] VOLO: Vision Outlooker for Visual Recognition (ArXiv 2021) [[Paper]](https://arxiv.org/pdf/2106.13112.pdf?ref=https://githubhelp.com)[[Code]](https://github.com/
+sail-sg/volo)
+- [ ] SA-Net: Shuffle Attention for Deep Convolutional Neural Networks (ICASSP 2021) [[Paper]](https://arxiv.org/pdf/2106.13112.pdf?ref=https://githubhelp.com)[Code]
+- [ ] Involution: Inverting the Inherence of Convolution for Visual Recognition (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf)[[Code]](https://github.com/d-li14/involution) ⭐⭐
+
 
 
 
