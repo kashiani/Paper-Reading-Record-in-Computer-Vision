@@ -164,19 +164,20 @@
 - [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[[Code]](https://github.com/HobbitLong/SupContrast)[[Code]](https://github.com/google-research/google-research/tree/master/supcon):star::star::star:
 
 ## Attention
-- [ ] AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [[Paper]](https://arxiv.org/pdf/2010.11929)([[Code]](ttps://github.com/
-google-research/vision_transformer) ⭐⭐⭐⭐
+- [ ] AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [[Paper]](https://arxiv.org/pdf/2010.11929)[[Code]](https://github.com/google-research/vision_transformer) ⭐⭐⭐⭐
+
 - [ ] VOLO: Vision Outlooker for Visual Recognition (ArXiv 2021) [[Paper]](https://arxiv.org/pdf/2106.13112.pdf?ref=https://githubhelp.com)[[Code]](https://github.com/sail-sg/volo)
 
 - [ ] SA-Net: Shuffle Attention for Deep Convolutional Neural Networks (ICASSP 2021) [[Paper]](https://arxiv.org/pdf/2106.13112.pdf?ref=https://githubhelp.com)[Code]
-- [ ] 
+
 - [ ] Involution: Inverting the Inherence of Convolution for Visual Recognition (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf)[[Code]](https://github.com/d-li14/involution) ⭐⭐
 
-
+- [ ] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021) [[Paper]](https://arxiv.org/pdf/2103.14030)[[Code]](https://github.com/microsoft/Swin-Transformer)⭐⭐⭐
 
 
 ## Precious Papers
 - [ ]  Shortcut Learning in Deep Neural Networks (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/2004.07780)[[Code]](https://github.com/rgeirhos/shortcut-perspective) :star::star::star::star::star:
+
 - [ ]  Scale-Equivariant Steerable Networks (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1910.11093)[[Code]](https://github.com/isosnovik/sesn) 
 ## Contact & Feedback
 
