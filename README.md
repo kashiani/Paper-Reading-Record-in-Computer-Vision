@@ -13,7 +13,7 @@
 - [Multi-Domain Learning](#Multi-Domain-Learning)
 - [Corruption Robustness](#Corruption-Robustness)
 - [Adversarial Robustness](#Adversarial-Robustness)
-- [Contrastive Learning](#Contrastive-Learning)
+- [Self-Supervised Learning](#Self-Supervised-Learning)
 - [Attention](#Attention)
 - [Precious Papers](#Precious-Papers)
  
@@ -160,8 +160,10 @@
 - [ ]  A simple way to make neural networks robust against diverse image corruptions (EECV 2020) [[Paper]](https://arxiv.org/abs/2001.06057)[Code]:star::star:
 
 
-## Contrastive Learning
-- [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[[Code]](https://github.com/HobbitLong/SupContrast)[[Code]](https://github.com/google-research/google-research/tree/master/supcon):star::star::star:
+## Self-Supervised Learning
+- [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[[Code]](https://github.com/HobbitLong/SupContrast) ⭐⭐⭐
+
+- [ ] Contrastive Representation Learning: A Framework and Review (IEEE ACESS 2020) [[Paper]](https://arxiv.org/abs/2010.05113)[Code] ⭐⭐
 
 ## Attention
 - [ ] AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [[Paper]](https://arxiv.org/pdf/2010.11929)[[Code]](https://github.com/google-research/vision_transformer) ⭐⭐⭐⭐
