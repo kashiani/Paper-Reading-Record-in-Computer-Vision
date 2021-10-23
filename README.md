@@ -164,9 +164,12 @@
 - [ ] Supervised Contrastive Learning (ArXiv 2020) [[Paper]](https://arxiv.org/abs/2004.11362)[[Code]](https://github.com/HobbitLong/SupContrast)[[Code]](https://github.com/google-research/google-research/tree/master/supcon):star::star::star:
 
 ## Attention
-- [ ] VOLO: Vision Outlooker for Visual Recognition (ArXiv 2021) [[Paper]](https://arxiv.org/pdf/2106.13112.pdf?ref=https://githubhelp.com)[[Code]](https://github.com/
-sail-sg/volo)
+- [ ] AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE (ICLR 2021) [[Paper]](https://arxiv.org/pdf/2010.11929)([[Code]](ttps://github.com/
+google-research/vision_transformer) ⭐⭐⭐⭐
+- [ ] VOLO: Vision Outlooker for Visual Recognition (ArXiv 2021) [[Paper]](https://arxiv.org/pdf/2106.13112.pdf?ref=https://githubhelp.com)[[Code]](https://github.com/sail-sg/volo)
+
 - [ ] SA-Net: Shuffle Attention for Deep Convolutional Neural Networks (ICASSP 2021) [[Paper]](https://arxiv.org/pdf/2106.13112.pdf?ref=https://githubhelp.com)[Code]
+- [ ] 
 - [ ] Involution: Inverting the Inherence of Convolution for Visual Recognition (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf)[[Code]](https://github.com/d-li14/involution) ⭐⭐
 
 
