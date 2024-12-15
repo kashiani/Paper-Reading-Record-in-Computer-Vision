@@ -16,6 +16,8 @@
 - [Self-Supervised Learning](#Self-Supervised-Learning)
 - [Attention](#Attention)
 - [Precious Papers](#Precious-Papers)
+- [Multimodal Large Language Models](#Multimodal-Large-Language-Models)
+
  
 ## Knowledge Distillation 
 
@@ -180,7 +182,25 @@
 ## Precious Papers
 - [ ]  Shortcut Learning in Deep Neural Networks (ArXiv 2020) [[Paper]](https://arxiv.org/pdf/2004.07780)[[Code]](https://github.com/rgeirhos/shortcut-perspective) :star::star::star::star::star:
 
-- [ ]  Scale-Equivariant Steerable Networks (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1910.11093)[[Code]](https://github.com/isosnovik/sesn) 
+- [ ]  Scale-Equivariant Steerable Networks (ArXiv 2020) [[Paper]](https://arxiv.org/abs/1910.11093)[[Code]](https://github.com/isosnovik/sesn)
+
+## Multimodal Large Language Models
+
+### Multimodal Instruction Tuning
+- [ ] **InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions** (arXiv 2024) [[Paper](https://arxiv.org/pdf/2412.09596)]
+- [ ] **StreamChat: Chatting with Streaming Video** (arXiv 2024) [[Paper](https://arxiv.org/pdf/2412.08646)]
+- [ ] **CompCap: Improving Multimodal Large Language Models with Composite Captions** (arXiv 2024) [[Paper](https://arxiv.org/pdf/2412.05243)]
+
+### Multimodal Hallucination
+- [ ] **LinVT: Empower Your Image-level Large Language Model to Understand Videos** (arXiv 2024) [[Paper](https://arxiv.org/pdf/2412.05185)]
+- [ ] **Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling** (Tech Report 2024) [[Paper](https://github.com/OpenGVLab/InternVL/blob/main/InternVL2_5_report.pdf)]
+
+### Multimodal Chain-of-Thought
+- [ ] **NVILA: Efficient Frontier Visual Language Models** (arXiv 2024) [[Paper](https://arxiv.org/pdf/2412.04468)]
+- [ ] **T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs** (arXiv 2024) [[Paper](https://arxiv.org/pdf/2411.19951)]
+- [ ] **TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability** (arXiv 2024) [[Paper](https://arxiv.org/pdf/2411.18211)]
+
+      
 ## Contact & Feedback
 
 Feel free to contact me or pull request. 
